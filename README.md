@@ -1,8 +1,8 @@
 # 🐱 Open-Yaongi (야옹이)
 
-**차세대 한국어 특화 초거대 언어 모델 프로젝트**
+**차세대 한국어 특화 초소형 언어 모델 프로젝트**
 
-Open-Yaongi는 NVIDIA **Nemotron-3** 아키텍처와 Teon Optimizer, 그리고 **Mamba-2** (SSM) 기술을 결합하여, H100 GPU 환경에서 극한의 효율로 학습되는 차세대 AI 모델입니다.
+Open-Yaongi는 NVIDIA **Nemotron-3** 아키텍처와 Teon Optimizer, 그리고 **Mamba-2** (SSM) 기술을 결합하여, H100 GPU 환경에서 극한의 효율로 학습되는 차세대 소형 LLM 모델입니다.
 
 ## 🎯 프로젝트 목표
 1.  **한국어/수학/코딩 특화**: 범용성보다는 특정 도메인(Logic, Reasoning, Korean)에 강점을 가진 모델.
