@@ -95,5 +95,5 @@ chmod +x run_all_vessl.sh
 
 ---
 
-**Author**: gyunggyung, Gemini 3 Pro 
-**License**: Apache 2.0
+**Author**: gyunggyung, Gemini 3 Pro  
+**License**: Apache 2.0  
